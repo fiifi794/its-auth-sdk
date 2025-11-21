@@ -1,7 +1,4 @@
 # Generated SDK files
-/generated/
-/dist/
-/build/
 
 # Node dependencies
 node_modules/
