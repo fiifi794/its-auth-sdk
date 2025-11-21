@@ -1,0 +1,28 @@
+{
+  "name": "@its/auth-sdk",
+  "version": "0.1.0",
+  "description": "Auto-generated TypeScript Angular SDK for the ITS Authentication API",
+  "main": "generated/index.ts",
+  "types": "generated/index.ts",
+  "scripts": {
+    "lint": "eslint generated --ext .ts || true",
+    "build": "echo 'SDK is pre-built during generation'",
+    "test": "echo 'Run tests in consuming projects'"
+  },
+  "keywords": [
+    "auth",
+    "sdk",
+    "typescript",
+    "angular"
+  ],
+  "author": "fiifi794",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^21.0.0",
+    "@angular/core": "^21.0.0",
+    "@angular/platform-browser": "^21.0.0"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.2"
+  }
+}
